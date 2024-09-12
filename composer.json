@@ -1,0 +1,21 @@
+{
+    "name": "elio200/framework",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Elio200\\Framework\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elio200",
+            "email": "jundu2016@gmail.com"
+        }
+    ],
+    "require": {}
+}
